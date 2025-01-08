@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="banner.png"
+    src="capturar.png"
     width="400"  
 />
 </p>
