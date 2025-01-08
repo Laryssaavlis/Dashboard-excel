@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="Capturar.png"
+    src="Capturar.PNG"
     width="400"  
 />
 </p>
